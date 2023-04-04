@@ -1,5 +1,5 @@
 # SCI6378
-Final Assignment for SCI6378:  Data Visualization and Physicalization Through Wagashi Expression
+Final project for SCI6378:  Data Visualization and Physicalization Through Wagashi Expression
 
 Instructor: Sawako Seijima
 
